@@ -3,8 +3,6 @@
 
   My primary interests are transportation, accessibility, and education. 
 
-
-
 ---
 ### Projects
 
@@ -18,7 +16,7 @@ This project sought to improve how Washington DC's public school system (DCPS) p
 
 [Clear Paths PHL](https://solanoamy.github.io/engagement-project/)
 
-Clear Paths PHL is a concept navigation app to improve pedestrian safety in Philadelphia, particularly for people with limited mobility and vision. It generates a walking route and displays potential obstructions, such as santiation schedules, historical parking violation data, and the locations of missing curb ramps that the user may come across. There is also a user-reporting system where users can violate obstructions they come across. User reporting feature is no longer functional as it requires maintenance of a cloud database, and the project was created for a JavaScript class. Future iterations of the app would include route generation that minimizes the possibility of obstructions and robust voice features.
+Clear Paths PHL is a concept navigation app to improve pedestrian safety in Philadelphia, particularly for people with limited mobility and vision. It generates a walking route and displays potential obstructions, such as santiation schedules, historical parking violation data, and the locations of missing curb ramps that the user may come across. There is also a user reporting system where users can report any obstructions they come across. User reporting feature is no longer functional as it requires maintenance of a cloud database, and the project was created for a JavaScript class. Future iterations of the app would include route generation that minimizes encounters with obstructions and robust voice features.
 
 <img src="images/ped_app.jpeg?raw=true"/>
 
@@ -26,7 +24,7 @@ Clear Paths PHL is a concept navigation app to improve pedestrian safety in Phil
 
 ### Other Data Visualizations
 
-- [Warehouse Map](https://github.com/solanoamy/30DayMap24/blob/main/scripts/12-amy.R)
+[Warehouse Map](https://github.com/solanoamy/30DayMap24/blob/main/scripts/12-amy.R)
 
 This standalone map visualizes the increased footprint of warehouses in the Inland Empire over a ten-year period, highlighting their prevalence in disadvantaged areas. These disadvantaged areas are at increased risk of the harms of pollutants associated with the increased trucking in these areas, such as diesel particulate matter. 
 
@@ -49,7 +47,6 @@ This standalone map visualizes the increased footprint of warehouses in the Inla
 ### Awards
 
 - [WTS Philadelphia Award to Chinatown Stitch](https://dvrpc.org/news/2024/chinatown-stitch-receives-wts-award/), Member of DVRPC Communications and Engagement team
-
 
 
 ---
