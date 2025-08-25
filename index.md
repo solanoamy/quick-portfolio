@@ -8,8 +8,9 @@ This standalone map visualizes the increased footprint of warehouses in the Inla
 <img src="images/12-timespace-amy.gif"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Clear Paths PHL](/pdf/sample_presentation.pdf)
+Clear Paths PHL is a concept navigation app to improve pedestrian safety in Philadelphia, particularly for people with limited mobility and vision. It generates a walking route and displays potential obstructions, such as santiation schedules, historical parking violation data, and the locations of missing curb ramps that the user may come across. There is also a user-reporting system where users can violate obstructions they come across. User reporting feature is no longer functional as it needs maintenance of a cloud database, and the project was created for a JavaScript class. Future iterations of the app would include route generation that minimizes the possibility of obstructions and robust voice features.
+<img src="images/ped_app.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -33,6 +34,7 @@ This standalone map visualizes the increased footprint of warehouses in the Inla
 
  - Master of Urban Spatial Analytics, University of Pennsylvania (2025)
  - Bachelor of Arts in Communication, University of Pennsylvania (2023)
+
 ---
 
 ### Awards
