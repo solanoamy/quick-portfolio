@@ -1,10 +1,10 @@
-## I'm an analyst focused on data-driven decision making that improves equity and quality-of-life in our cities. I am experienced in using data analysis and visualization to identify spatial and temporal trends, along with the appropriate model or test to address the issue.
+## Portfolio
 
 ---
-
 ### Category Name 1 
 
-[Warehouse Map](/sample_page)
+[Warehouse Map](https://github.com/solanoamy/30DayMap24/blob/main/scripts/12-amy.R)
+This standalone map visualizes the increased footprint of warehouses in the Inland Empire over a ten-year period, highlighting their prevalence in disadvantaged areas. These disadvantaged areas are at increased risk of the harms of pollutants associated with the increased trucking in these areas, such as diesel particulate matter. 
 <img src="images/12-timespace-amy.gif"/>
 
 ---
@@ -26,7 +26,18 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+### News Articles and Reports
 
+---
+### Education
+
+ - Master of Urban Spatial Analytics, University of Pennsylvania (2025)
+ - Bachelor of Arts in Communication, University of Pennsylvania (2023)
+---
+
+### Awards
+
+- [WTS Philadelphia Award to Chinatown Stitch](https://dvrpc.org/news/2024/chinatown-stitch-receives-wts-award/), Member of DVRPC Communications and Engagement team
 
 
 
