@@ -1,4 +1,4 @@
-## Portfolio
+## I'm an analyst focused on data-driven decision making that improves equity and quality-of-life in our cities. I am experienced in using data analysis and visualization to identify spatial and temporal trends, along with the appropriate model or test to address the issue.
 
 ---
 
