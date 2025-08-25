@@ -9,7 +9,7 @@ This standalone map visualizes the increased footprint of warehouses in the Inla
 
 ---
 [Clear Paths PHL](/pdf/sample_presentation.pdf)
-Clear Paths PHL is a concept navigation app to improve pedestrian safety in Philadelphia, particularly for people with limited mobility and vision. It generates a walking route and displays potential obstructions, such as santiation schedules, historical parking violation data, and the locations of missing curb ramps that the user may come across. There is also a user-reporting system where users can violate obstructions they come across. User reporting feature is no longer functional as it needs maintenance of a cloud database, and the project was created for a JavaScript class. Future iterations of the app would include route generation that minimizes the possibility of obstructions and robust voice features.
+Clear Paths PHL is a concept navigation app to improve pedestrian safety in Philadelphia, particularly for people with limited mobility and vision. It generates a walking route and displays potential obstructions, such as santiation schedules, historical parking violation data, and the locations of missing curb ramps that the user may come across. There is also a user-reporting system where users can violate obstructions they come across. User reporting feature is no longer functional as it requires maintenance of a cloud database, and the project was created for a JavaScript class. Future iterations of the app would include route generation that minimizes the possibility of obstructions and robust voice features.
 <img src="images/ped_app.jpg?raw=true"/>
 
 ---
