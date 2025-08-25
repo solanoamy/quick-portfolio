@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Warehouse Map](/sample_page)
-<img src="12-timespace-amy.gif?raw=true"/>
+<img src="images/12-timespace-amy.gif"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
