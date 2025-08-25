@@ -9,38 +9,34 @@
 ### Projects
 
 [Aligning Educational Research Using Matriculation Forecasts](http://example.com/)
+
 This project sought to improve how Washington DC's public school system (DCPS) predicts enrollment for elementary schools in order to more effectively allocate resources to schools with greater need. I led modeling and co-led dashboard creation for this group project. Modeling included constructing a panel from 10 years of student data, census data, housing data, and engineered spatial features and testing linear and tree-based models. Once we selected a linear model, the dashboard was created to display enrollment predictions 5 years into the future. For more information about modeling, please see our [final report to DME](https://pennmusa.github.io/MUSA_801.io/project_41/DCED.html) outlining the process. Additionally, the [project dashboard](https://jasmine-404.github.io/DME-Enrollment-Dashboard/) is publicly available.
+
 <img src="images/dme_dashboard.png?raw=true"/>
 
 ---
 
-[Warehouse Map](https://github.com/solanoamy/30DayMap24/blob/main/scripts/12-amy.R)
+[Clear Paths PHL](https://solanoamy.github.io/engagement-project/)
 
-This standalone map visualizes the increased footprint of warehouses in the Inland Empire over a ten-year period, highlighting their prevalence in disadvantaged areas. These disadvantaged areas are at increased risk of the harms of pollutants associated with the increased trucking in these areas, such as diesel particulate matter. 
-<img src="images/12-timespace-amy.gif"/>
-
----
-
-[Clear Paths PHL](/pdf/sample_presentation.pdf)
 Clear Paths PHL is a concept navigation app to improve pedestrian safety in Philadelphia, particularly for people with limited mobility and vision. It generates a walking route and displays potential obstructions, such as santiation schedules, historical parking violation data, and the locations of missing curb ramps that the user may come across. There is also a user-reporting system where users can violate obstructions they come across. User reporting feature is no longer functional as it requires maintenance of a cloud database, and the project was created for a JavaScript class. Future iterations of the app would include route generation that minimizes the possibility of obstructions and robust voice features.
+
 <img src="images/ped_app.jpeg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Other Data Visualizations
 
-### Category Name 2
+- [Warehouse Map](https://github.com/solanoamy/30DayMap24/blob/main/scripts/12-amy.R)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+This standalone map visualizes the increased footprint of warehouses in the Inland Empire over a ten-year period, highlighting their prevalence in disadvantaged areas. These disadvantaged areas are at increased risk of the harms of pollutants associated with the increased trucking in these areas, such as diesel particulate matter. 
+
+<img src="images/12-timespace-amy.gif"/>
 
 ---
 ### News Articles and Reports
+
+- [Bike Count Program Uses Data to Understand Cycling Trends](https://www.dvrpc.org/news/2024/bicycle-count-program/)
+- [Bike Share Rebalancing Plan for Summer Holidays in Los Angeles](solano_HW5.html)
 
 ---
 ### Education
