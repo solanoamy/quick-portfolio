@@ -1,5 +1,5 @@
 ## About Me
-  I'm an analyst focused on data-driven decision making that improves equity and quality-of-life in our cities. I'm experienced in identifying spatial and temporal trends from data and applying the appropriate models and tests for further insight.
+  I'm an analyst focused on data-driven decision making that improves equity and quality of life in our cities. I'm experienced in identifying spatial and temporal trends from data and applying the appropriate models and tests for further insight.
 
   My primary interests are transportation, accessibility, and education. 
 
