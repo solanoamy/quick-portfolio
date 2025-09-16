@@ -6,7 +6,7 @@
 ---
 ### Projects
 
-[Aligning Educational Research Using Matriculation Forecasts](http://example.com/)
+[Aligning Educational Research Using Matriculation Forecasts](https://pennmusa.github.io/MUSA_801.io/project_41/DCED.html)
 
 This project sought to improve how Washington DC's public school system (DCPS) predicts enrollment for elementary schools in order to more effectively allocate resources to schools with greater need. I led modeling and co-led dashboard creation for this group project. Modeling included constructing a panel from 10 years of student data, census data, housing data, and engineered spatial features and testing linear and tree-based models. Once we selected a linear model, the dashboard was created to display enrollment predictions 5 years into the future. For more information about modeling, please see our [final report to DME](https://pennmusa.github.io/MUSA_801.io/project_41/DCED.html) outlining the process. Additionally, the [project dashboard](https://jasmine-404.github.io/DME-Enrollment-Dashboard/) is publicly available.
 
