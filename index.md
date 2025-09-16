@@ -22,6 +22,14 @@ Clear Paths PHL is a concept navigation app to improve pedestrian safety in Phil
 
 ---
 
+[Making Predictions with Growhere](musa-580-final_2024-12-13.html)
+
+Growhere is a concept tool for investors to predict which areas of Philadelphia will have the most growth in the future years, meant to inform investment. The project used a logistic regression to generate probabilities to later be used to estimate how many permits will be issued in a particular cell, with permits used as indicators of development. For more information on methods and results, [see the Growhere report](musa-580-final_2024-12-13.html).
+
+<img src="images/growhere.png?raw=true"/>
+
+---
+
 ### Other Data Visualizations
 
 [Warehouse Map](https://github.com/solanoamy/30DayMap24/blob/main/scripts/12-amy.R)
